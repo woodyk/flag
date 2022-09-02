@@ -1,5 +1,5 @@
 # flag.sh
-Simple United States Terminal Flag.  
+Simple United States terminal flag originally created on September 11th 2001.  
   
 ![flag.png](https://github.com/woodyk/flag.sh/blob/main/flag.png?raw=true)  
   
