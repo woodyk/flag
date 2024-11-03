@@ -22,4 +22,5 @@ printf "\033[1;41m                                                              
 printf "\033[m\n"
 printf "\033[1;41m                                                                          \033[m\n"
 printf "\033[1;41m                                                                          \033[m\n"
+printf "\n"
 exit
